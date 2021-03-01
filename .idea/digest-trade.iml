@@ -115,6 +115,10 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/clue/term-react" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/monolog/monolog" />
       <excludeFolder url="file://$MODULE_DIR$/storage/framework/cache/data" />
+      <excludeFolder url="file://$MODULE_DIR$/bootstrap/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/storage/framework/sessions" />
+      <excludeFolder url="file://$MODULE_DIR$/storage/framework/views" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
