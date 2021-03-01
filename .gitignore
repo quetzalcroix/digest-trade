@@ -1,5 +1,4 @@
 /vendor/
 /storage/framework/sessions/
 /storage/framework/views/
-/bootstrap/cache/
 /tests/
